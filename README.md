@@ -1,8 +1,8 @@
 UNGUARDED Digital Marketing Place Research
 
 
-1.NPX create-next-app@latest unguardeddigitalmarketing 
-Next App is one of the most advanced technologies  
+    1.NPX create-next-app@latest unguardeddigitalmarketing 
+    Next App is one of the most advanced technologies  
  
 2. Typescript, ESLint, Tailwindcss, Src, App Router  
 Typescript is JavaScript strongly typed programmed language that builds on JavaScript giving you better tooling  

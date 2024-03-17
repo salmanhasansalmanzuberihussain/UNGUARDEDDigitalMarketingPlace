@@ -72,4 +72,33 @@ These tailwind properties there is no reason to memorize. Its more important to 
 
 
 20.NPX shadcn-ui@latest add button 
+
+21. Add button variant &rarr
+
+22.  Grid grid-cols-1 gap-y-12 sm:grid-cols-2 lg:grid-cols-3 lg:gap-x-8
+Grid adds a certain amount of space between columns
+
+23. Add MaxWidthWrapper className=’py-20’
+
+24.Yarn add lucide-react
+
+25.Create a perks.map and key={perks.name} etc...
+
+This perks.map creates a name in instant delivery
+
+26. Add Navigation Bar to the website
+
+27.For Div className and header and maxwidthwrapper and div div and add <Link href=’/’>
+
+28.Add Section className=’border-t border-gray-200 bg-gray-50'>
+
+29. Add the Icons.tsx in the components file that has a bunch of paths and icons
+
+30. Add Icons.logo className=’h-10 w-10'
+
+31. Config and add index.ts
+
+
+
+
  

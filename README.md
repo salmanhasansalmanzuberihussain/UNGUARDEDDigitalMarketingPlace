@@ -220,6 +220,12 @@ Variant changes the color of the button and category label adds the button
  
 44.Link href=item.href className=”mt-6 block font-medium> and add item.name
 
+45.Add the template for Use-on-click-outside.ts. The useeffect helps perform side effects 
+ 
+46.User Sign in with Link href 
+	 
+
+
 
 
 

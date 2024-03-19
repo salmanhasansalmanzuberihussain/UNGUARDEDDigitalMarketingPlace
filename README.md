@@ -223,6 +223,21 @@ Variant changes the color of the button and category label adds the button
 45.Add the template for Use-on-click-outside.ts. The useeffect helps perform side effects 
  
 46.User Sign in with Link href 
+
+47. Add a npx shadcn-ui@latest add sheet
+
+48. Import {Sheet} from './ui/sheet' ("use client")
+
+49. const itemCount =0
+
+50.Make necessary css and file changes for Cart.tsx
+
+51.Add yarn add express which is a backend server and then from there make sure to impprt server.ts
+
+52. get-payload.ts import dotenv from "dotenv"
+
+53.
+
 	 
 
 
